@@ -32,6 +32,7 @@ Corpo delle cose da mostrare in pagina in carattere più piccolo...
 ---
 
 Miau
+[google](www.google.com)
 
 ---
 
@@ -39,5 +40,5 @@ Miau
 
 adfdsafasfa dsfa sadf
 asdffdassa sfd dfsaf
-[link-a-google](www.google.com)
+[google](www.google.com)
 ---
