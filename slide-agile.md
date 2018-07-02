@@ -1,8 +1,6 @@
 ## Introduzione agile
 
-
 2018-07-02 Infosons - eFM
-
 ---
 
 # Ezio Sperduto
@@ -12,5 +10,4 @@
 - Infosons
 - java
 - agile
-
 ---
