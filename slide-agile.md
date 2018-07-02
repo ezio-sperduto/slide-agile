@@ -31,8 +31,6 @@ Corpo delle cose da mostrare in pagina in carattere più piccolo...
 
 ---
 
-
-
 Ciao
 
 ---
