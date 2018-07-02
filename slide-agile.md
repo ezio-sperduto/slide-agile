@@ -31,6 +31,12 @@ Corpo delle cose da mostrare in pagina in carattere più piccolo...
 
 ---
 
+
+
+Ciao
+
+---
+
 And this will produce a flow chart:
 
 ```mermaid
@@ -40,9 +46,5 @@ A --> C(Round Rect)
 B --> D{Rhombus}
 C --> D
 ```
-
----
-
-Ciao
 
 ---
