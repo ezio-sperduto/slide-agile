@@ -181,6 +181,8 @@ per ottenere
 
 ## Formule con Katex
 
+<$latex text="f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi" displayMode="true"></$latex>
+
 katex.render("c = \\pm\\sqrt{a^2 + b^2}", element);
 
 The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
