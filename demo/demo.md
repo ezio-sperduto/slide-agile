@@ -50,7 +50,7 @@ Si scrive così:
 ```
 
 per ottenere:
-> C'era una volta
+> C'era una volta  
 > in America...
 
 ---
