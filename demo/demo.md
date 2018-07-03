@@ -67,6 +67,8 @@ per ottenere:
 	* Item 2a
 	* Item 2b
 
+per la sottolista è necessario tabulare	
+
 ---
 
 ## Liste numerate
@@ -80,5 +82,7 @@ per ottenere:
 2. Item 2
 	1. Item 2a
 	2. Item 2b
+
+per la sottolista è necessario tabulare	
 
 ---
