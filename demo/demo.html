@@ -48,18 +48,6 @@
       document.getElementsByTagName( 'head' )[0].appendChild( link );
     </script>
 
-    <!-- KaTex: funzione jQuery di renderizzazione tag <katex> -->
-    <script>
-      $("katex").each(
-        function(){
-          try {
-            katex.render($(this).text(),$(this).get(0));
-          }catch(err) {
-            $(this).html("<span class='err'>"+err);
-          }
-        }
-      ); 
-    </script>    
 
   </body>
 </html>
