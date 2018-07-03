@@ -110,7 +110,7 @@ Per i blocchi di codice monospaziato si usa il carattere **apice inverso** o **b
 \```  
 blocco  
 \```  
-* nel blocco verticale possibile specificare un linguaggio per l'auto-highlight (\```java)
+* auto-highlight: nel blocco verticale è possibile specificare un linguaggio (esempio: \```java)
 ```java
 public inteface Pippo{
 	abstract int somma(int a,int b);
