@@ -161,8 +161,8 @@ E' possibile aggiungere HTML puro, e viene renderizzato correttamente:
 
 ## Linee orizzontali
 
-E' sufficiente usare 3 o più asterischi:
-\***
-per ottenere
+E' sufficiente usare 3 o più asterischi:  
+\***  
+per ottenere  
 *******  
 _______  
