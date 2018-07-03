@@ -164,4 +164,5 @@ E' possibile aggiungere HTML puro, e viene renderizzato correttamente:
 E' sufficiente usare 3 o più asterischi:
 \***
 per ottenere
-***
+*******  
+_______  
