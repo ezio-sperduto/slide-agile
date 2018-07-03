@@ -36,8 +36,8 @@ Iniziare una riga con:
 
 Per i link automatici basta scrivere www.link.it  
 Per link più elaborati è sufficiente:  
-`[Testo mostrato](www.link.it)`  
-E si ottiene [Testo mostrato](www.link.it)
+`[Testo mostrato](http://www.link.it)`  
+E si ottiene [Testo mostrato](http://www.link.it)
 
 ---
 
