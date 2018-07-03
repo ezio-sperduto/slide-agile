@@ -181,7 +181,7 @@ per ottenere
 
 ## Formule con Katex
 
-    <span id="k1">...</span><script>katex.render("f(a,b,c) = (a^2+b^2+c^2)^3", k1);</script>     
+    <katex>f(a,b,c) = (a^2+b^2+c^2)^3</katex>     
 
 ---
 
