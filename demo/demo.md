@@ -89,5 +89,8 @@ per la sottolista è necessario tabulare
 
 ## Immagini
 Logo di Git: ![Git Logo](git-logo.png)
-
+La sintassi è uguale al link, ma preceduta dal punto esclamativo:
+```
+![Didascalia](/percorso/relativo/immagine.png)
+```
 ---
