@@ -136,3 +136,32 @@ Bill | Gates | 666
 Alan | Turing | 0000
 
 ---
+
+## HTML incorporato
+E' possibile aggiungere HTML puro, e viene renderizzato correttamente:
+```
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+```
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+---
+
+
+## Linee orizzontali
+
+E' sufficiente usare 3 o più asterischi:
+\***
+per ottenere
+***
