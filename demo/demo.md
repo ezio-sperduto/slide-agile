@@ -115,13 +115,13 @@ blocco
 
 ## Blocco di codice "verbatim" (2)
 
-* auto-highlight: nel blocco verticale è possibile specificare un linguaggio a seguito della riga di inizio blocco:
-\```java
-public inteface Pippo{
-	abstract int somma(int a,int b);
-}
-\```
-
+* auto-highlight: nel blocco verticale è possibile specificare un linguaggio a seguito della riga di inizio blocco:  
+\```java  
+public inteface Pippo{  
+	abstract int somma(int a,int b);  
+}  
+\```  
+  
 per ottenere le parole chiave evidenziate:
 
 ```java
