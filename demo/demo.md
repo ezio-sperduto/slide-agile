@@ -23,12 +23,11 @@ MarkDown + Reveal.js
 
 ---
 
-## Info su formattazione
-## *corsivo*
-```
-var x=1;
-*corsivo*
-```
+## Intestazioni
+Iniziare una riga con:  
+\# equivale a marcare come `<H1>`  
+\## equivale a marcare come `<H2>`  
+\#\#\#\# equivale a marcare come `<H4>`  
 
 ---
 
