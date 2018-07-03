@@ -18,8 +18,9 @@ MarkDown + Reveal.js
 
 ## Formattazione
 *corsivo* `*corsivo*` (asterisco singolo)  
-**grassetto** `**grassetto**` (asterisco doppio)  
-*Esempio **che** combina* gli **stili**.
+**grassetto** `**grassetto**` (asterisco doppio)
+~~barrato~~ `~~barrato~~` (doppia tilde) 
+*Esempio **che** combina* gli **stili** per ~~ottenere~~ un gran risultato.
 
 ---
 
