@@ -133,7 +133,7 @@ public interface Pippo{
 <!-- .slide: data-background="#FFFFFF" -->
 <!-- .slide: data-color="#333333" -->
 ## Tabelle
-Per definire una tabella si possono usare i caratteri (**\| \- :**) come:
+Per le tabelle si possono usano **\| \- :**
 ```
 Nome | Cognome | Telefono
 ------------ | :-------------: | ------------:
