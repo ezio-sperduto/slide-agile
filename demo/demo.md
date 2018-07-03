@@ -130,7 +130,8 @@ public interface Pippo{
 }
 ```
 ---
-
+<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-color="#333333" -->
 ## Tabelle
 Per definire una tabella si possono usare i caratteri (**\| \- :**) come:
 ```
@@ -178,4 +179,5 @@ E' sufficiente usare 3 o più asterischi:
 \***  
 per ottenere  
 *******  
-_______  
+
+---
