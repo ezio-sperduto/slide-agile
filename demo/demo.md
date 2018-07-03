@@ -16,7 +16,10 @@ MarkDown + Reveal.js
 
 ---
 
+## Formattazione
+*corsivo* `*corsivo*`
 
+---
 
 ## Info su formattazione
 ## *corsivo*
