@@ -25,9 +25,9 @@ MarkDown + Reveal.js
 
 ## Intestazioni
 Iniziare una riga con:  
-\# equivale a marcare come `<H1>`  
-\## equivale a marcare come `<H2>`  
-\#\#\#\# equivale a marcare come `<H4>`  
+**\#** equivale a marcare come `<H1>`  
+**\##** equivale a marcare come `<H2>`  
+**\####** equivale a marcare come `<H4>`  
 
 ---
 
