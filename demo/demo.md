@@ -181,7 +181,19 @@ per ottenere
 
 ## Formule con Katex
 
-    <katex>f(a,b,c) = (a^2+b^2+c^2)^3</katex>     
+    <katex>f(a,b,c) = (a^2+b^2+c^2)^3</katex>    
+    <script>
+      $("katex").each(
+        function(){
+          try {
+            katex.render($(this).text(),$(this).get(0));
+          }catch(err) {
+            $(this).html("<span class='err'>"+err);
+          }
+        }
+      ); 
+    </script>    
+ 
 
 ---
 
