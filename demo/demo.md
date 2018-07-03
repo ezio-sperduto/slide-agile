@@ -119,12 +119,18 @@ public inteface Pippo{
 ---
 
 ## Tabelle
-Per definire una tabella si possono usare i caratteri \| e \-:
-
+Per definire una tabella si possono usare i caratteri \| e \- come:
+```
 Nome | Cognome
 ------------ | -------------
 Steve | Jobs
 Bill | Gates
 Alan | Turing
-
+```
+e il risultato è
+Nome | Cognome
+------------ | -------------
+Steve | Jobs
+Bill | Gates
+Alan | Turing
 ---
