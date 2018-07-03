@@ -32,12 +32,11 @@ Iniziare una riga con:
 
 ---
 
-# Agenda
+## Link
 
-- Docker commands
-- Java development with Docker
-- from monolith to microservices
-- ~~production~~
+Per i link automatici basta scrivere www.link.it  
+Per link più elaborati è sufficiente:  
+`[Testo mostrato](www.link.it)`
 
 ---
 
@@ -45,16 +44,4 @@ Iniziare una riga con:
 
 Corpo delle cose da mostrare in pagina in carattere più piccolo...
 
----
-
-Miau
-[google](http://www.google.com)
-
----
-
-# Ciao
-
-adfdsafasfa dsfa sadf
-asdffdassa sfd dfsaf
-[google](www.google.com)
 ---
