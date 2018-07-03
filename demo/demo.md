@@ -94,3 +94,11 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 ![Didascalia](/percorso/relativo/immagine.png)
 ```
 ---
+
+## Regole extra
+
+* per forzare l'accapo, mettere due spazi
+* il carattere `\` permette di fare *escape* dei caratteri speciali
+
+---
+
