@@ -181,6 +181,12 @@ per ottenere
 
 ## Formule con Katex
 
+    <span id="k1">...</span><script>katex.render("f(a,b,c) = (a^2+b^2+c^2)^3", k1);</script>     
+
+---
+
+## Formule con Katex
+
 <$latex text="f(x) = \int_{-\infty}^\infty\hat f(\xi)\,e^{2 \pi i \xi x}\,d\xi" displayMode="true"></$latex>
 
 katex.render("c = \\pm\\sqrt{a^2 + b^2}", element);
