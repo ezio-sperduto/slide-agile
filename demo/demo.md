@@ -128,9 +128,11 @@ Bill | Gates
 Alan | Turing
 ```
 e il risultato è
+
 Nome | Cognome
 ------------ | -------------
 Steve | Jobs
 Bill | Gates
 Alan | Turing
+
 ---
