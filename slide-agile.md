@@ -32,7 +32,7 @@ Corpo delle cose da mostrare in pagina in carattere più piccolo...
 ---
 
 Miau
-[google](www.google.com)
+[google](http://www.google.com)
 
 ---
 
