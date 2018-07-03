@@ -88,6 +88,6 @@ per la sottolista è necessario tabulare
 ---
 
 ## Immagini
-Logo di Git: [Git Logo](git-logo.png)
+Logo di Git: ![Git Logo](git-logo.png)
 
 ---
