@@ -86,3 +86,8 @@ per la sottolista è necessario tabulare
 per la sottolista è necessario tabulare	
 
 ---
+
+## Immagini
+Logo di Git: [Git Logo](git-logo.png)
+
+---
