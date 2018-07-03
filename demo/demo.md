@@ -102,3 +102,13 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 
 ---
 
+## Blocco di codice "verbatim"
+
+Per i blocchi di codice monospaziato si usa il carattere **apice inverso** o **backtick**  
+* per il blocco di codice *inline* è sufficiente un solo backtick `esempio` (\`esempio\`)
+* per il blocco verticale occorre identificarlo con tre backtick
+\```
+blocco
+\```
+
+---
