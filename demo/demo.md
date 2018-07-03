@@ -113,7 +113,7 @@ blocco
 
 ---
 
-## Blocco di codice "verbatim" (2)
+## Blocco di codice "verbatim"
 
 * auto-highlight: specificare un linguaggio:  
 \```java  
