@@ -118,7 +118,7 @@ blocco
 * auto-highlight: nel blocco verticale è possibile specificare un linguaggio a seguito della riga di inizio blocco:  
 \```java  
 public inteface Pippo{  
-	abstract int somma(int a,int b);  
+     abstract int somma(int a,int b);  
 }  
 \```  
   
