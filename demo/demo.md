@@ -115,7 +115,7 @@ blocco
 
 ## Blocco di codice "verbatim" (2)
 
-* auto-highlight: nel blocco verticale è possibile specificare un linguaggio a seguito della riga di inizio blocco:  
+* auto-highlight: specificare un linguaggio:  
 \```java  
 public interface Pippo{  
      abstract int somma(int a,int b);  
@@ -139,7 +139,6 @@ Nome | Cognome | Telefono
 ------------ | :-------------: | ------------:
 Steve | Jobs | 1234
 Bill | Gates | 666
-Alan | Turing | 0000
 ```
 e il risultato è
 
@@ -147,7 +146,6 @@ Nome | Cognome | Telefono
 ------------ | :-------------: | ------------:
 Steve | Jobs | 1234
 Bill | Gates | 666
-Alan | Turing | 0000
 
 ---
 
