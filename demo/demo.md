@@ -121,9 +121,10 @@ public inteface Pippo{
 ## Tabelle
 Per definire una tabella si possono usare i caratteri \| e \-:
 
-First Header | Second Header
+Nome | Cognome
 ------------ | -------------
-Content cell 1 | Content cell 2
-Content column 1 | Content column 2
+Steve | Jobs
+Bill | Gates
+Alan | Turing
 
 ---
