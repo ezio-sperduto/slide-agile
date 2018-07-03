@@ -110,6 +110,11 @@ Per i blocchi di codice monospaziato si usa il carattere **apice inverso** o **b
 \```  
 blocco  
 \```  
+
+---
+
+## Blocco di codice "verbatim" (2)
+
 * auto-highlight: nel blocco verticale è possibile specificare un linguaggio (esempio: \```java)
 ```java
 public inteface Pippo{
