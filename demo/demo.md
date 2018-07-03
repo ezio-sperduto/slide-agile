@@ -41,8 +41,16 @@ E si ottiene [Testo mostrato](http://www.link.it)
 
 ---
 
-# Titolo
+## Citazioni
 
-Corpo delle cose da mostrare in pagina in carattere più piccolo...
+Si scrive così:
+```
+> C'era una volta
+> in America...
+```
+
+per ottenere:
+> C'era una volta
+> in America...
 
 ---
