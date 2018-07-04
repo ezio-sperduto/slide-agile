@@ -236,10 +236,10 @@ Premi avanti...
 
 Tipi differenti di **fragments**:
 
-<p class="fragment grow">ingrandire</p>
-<p class="fragment shrink">rimpicciolire</p>
-<p class="fragment fade-out">scomparire</p>
-<p class="fragment fade-up">comparire (also down, left and right!)</p>
-<p class="fragment current-visible">current-visible</p>
-<p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
+<p class="fragment grow">ingradimento</p>
+<p class="fragment shrink">rimpicciolimento</p>
+<p class="fragment fade-out">scomparsa</p>
+<p class="fragment fade-up">comparsa (da sopra, sotto, destra o sinistra)</p>
+<p class="fragment current-visible">comparsa a dissolvenza</p>
+<p>Evidenziazione <span class="fragment highlight-red">rosso</span> <span class="fragment highlight-blue">blu</span> <span class="fragment highlight-green">verde</span></p>
 ---
