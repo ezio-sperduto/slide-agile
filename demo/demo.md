@@ -116,7 +116,7 @@ Per la singola slide aggiungere:
 ```
 ---
 
-<!-- .slide: data-background="sea.jpg" -->
+<!-- .slide: data-background="demo/sea.jpg" -->
 ## Sfondo e colori
 
 - immagine sfondo: 
