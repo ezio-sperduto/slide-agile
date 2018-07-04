@@ -308,24 +308,39 @@ $$
 
 <!-- .slide: data-background="#FFFFFF" -->
 <!-- .slide: data-color="#333333" -->
-<!-- svg: font-size="20px" -->
-
 ## Diagrammi con *mermaid*
 
 <section class="diagram-slide">
     <span class="diagram-data" style="display:none;">
-graph LR
-A[Rettangolo] -- Arco --> B((Cerchio))
-A --> C(Rett.smussato)
-B --> D{Rombo}
-C --> D
+      graph LR
+      A[Rettangolo] -- Arco --> B((Cerchio))
+      A --> C(Rett.smussato)
+      B --> D{Rombo}
+      C --> D
      </span>
      <!-- Diagram will be displayed in this DIV -->
     <div class="diagram-display"></div>
 </section>
-
 ---
 
+<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-color="#333333" -->
+## Diagrammi con *mermaid*
+
+```
+<section class="diagram-slide">
+    <span class="diagram-data" style="display:none;">
+      graph LR
+      A[Rettangolo] -- Arco --> B((Cerchio))
+      A --> C(Rett.smussato)
+      B --> D{Rombo}
+      C --> D
+     </span>
+     <!-- Diagram will be displayed in this DIV -->
+    <div class="diagram-display"></div>
+</section>
+```
+---
 
 ## Esportazione PDF
 
@@ -336,8 +351,6 @@ C --> D
 4. margini: **none**
 5. spunta: **Background Graphics**
 6. **Salva come PDF.**
-
-
 ---
 
 ## Hosting
@@ -350,6 +363,5 @@ La presentazione può essere ospitata su un qualunque server:
 
 # Domande?
 
----
 
 
