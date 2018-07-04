@@ -203,16 +203,18 @@ $$
 
 ## Diagrammi con *mermaid*
 
-```mermaid
-sequenceDiagram
-Alice ->> Bob: Ciao Bob, come stai?
-Bob-->>John: Come va a te John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+<section class="diagram-slide">
+    <span class="diagram-data" style="display:none;">
+		graph LR;
+  		A(AAAA)==> B(B node);
+  		B==> C(SEE SEE);
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
-```
+  		class A diag-a-styles;
+  		class B diag-b-styles
+  		class C diag-c-styles;
+     </span>
+     <!-- Diagram will be displayed in this DIV -->
+    <div class="diagram-display"></div>
+</section>
 
 ---
