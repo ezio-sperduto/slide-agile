@@ -106,15 +106,23 @@ Per la singola slide aggiungere:
 <!-- .slide: data-color="#DDDDDD" -->
 ## Sfondo e colori
 
-- colore sfondo: `<!-- .slide: data-background="#4D7E65" -->`
-- colore carattere: `<!-- .slide: data-color="#DDDDDD" -->`
+- colore sfondo: 
+```
+<!-- .slide: data-background="#4D7E65" -->
+```
+- colore carattere: 
+```
+<!-- .slide: data-color="#DDDDDD" -->
+```
 ---
 
 <!-- .slide: data-background="sea.jpg" -->
 ## Sfondo e colori
 
-- immagine sfondo: `<!-- .slide: data-background="http://site.com/image.jpg" -->`
-- anche video e gif animate
+- immagine sfondo: 
+```
+<!-- .slide: data-background="http://site.com/image.jpg" -->
+```
 ---
 
 <!-- .slide: data-background="https://cdn.css-tricks.com/wp-content/uploads/2018/04/react-svg-component-library-1.gif" -->
@@ -122,7 +130,10 @@ Per la singola slide aggiungere:
 
 ## Sfondo e colori
 
-- video e gif: `<!-- .slide: data-background="http://site.com/image.gif" -->`
+- video e gif: 
+```
+<!-- .slide: data-background="http://site.com/image.gif" -->
+```
 ---
 
 ## Link
