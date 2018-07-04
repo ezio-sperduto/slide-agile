@@ -89,6 +89,10 @@ Per la singola slide aggiungere:
 ## Transizioni: slide
 
 ---
+<!-- .slide: data-transition="convex" -->
+## Transizioni: convex
+
+---
 <!-- .slide: data-transition="concave" -->
 ## Transizioni: concave
 
