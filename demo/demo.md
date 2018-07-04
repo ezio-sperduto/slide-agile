@@ -178,17 +178,24 @@ per ottenere
 *******  
 
 ---
+<!-- .slide: style="text-align: left;"> -->
 
-## Formule matematiche con KaTeX
-Versione web di LaTeX. Formula inline $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ e formula blocco
+## Formule con KaTeX
+KaTeX è una versione web di LaTeX. 
+
+La *funzione* $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ è soddisfatta da:
 
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
-> La codifica delle formule è la stessa di LaTeX
-> per le formule inline si usa il $ singolo
-> per le formule in blocco si usa $$ doppio
+---
+<!-- .slide: style="text-align: left;"> -->
+
+## Formule con KaTeX
+La codifica delle formule è la stessa di LaTeX
+per le formule inline si usa il $ singolo
+per le formule in blocco si usa $$ doppio
 
 ---
 #Ciao.
