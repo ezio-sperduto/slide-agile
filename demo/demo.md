@@ -110,7 +110,7 @@ Per la singola slide aggiungere:
 - colore carattere: `<!-- .slide: data-color="#DDDDDD" -->`
 ---
 
-<!-- .slide: data-background="https://cdn.pixabay.com/photo/2017/05/21/15/14/balloon-2331488_960_720.jpg" -->
+<!-- .slide: data-background="sea.jpg" -->
 ## Sfondo e colori
 
 - immagine sfondo: `<!-- .slide: data-background="http://site.com/image.jpg" -->`
@@ -118,6 +118,8 @@ Per la singola slide aggiungere:
 ---
 
 <!-- .slide: data-background="https://cdn.css-tricks.com/wp-content/uploads/2018/04/react-svg-component-library-1.gif" -->
+<!-- .slide: data-color="#000000" -->
+
 ## Sfondo e colori
 
 - video e gif: `<!-- .slide: data-background="http://site.com/image.gif" -->`
