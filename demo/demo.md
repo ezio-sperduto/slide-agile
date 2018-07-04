@@ -316,5 +316,13 @@ La presentazione può essere ospitata su un qualunque server:
 
 ---
 
+<section data-transition="zoom">
+	<h2>This slide will override the presentation transition and zoom!</h2>
+</section>
+
+<section data-transition-speed="fast">
+	<h2>Choose from three transition speeds: default, fast or slow!</h2>
+</section>
+
 
 
