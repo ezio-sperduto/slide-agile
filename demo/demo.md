@@ -266,7 +266,7 @@ Vari effetti di transizione...
 ---
 <section data-transition="zoom">
 ## Transizioni: zoom
-ciao
+bau
 </section>
 ---
 
