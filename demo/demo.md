@@ -178,12 +178,14 @@ per ottenere
 *******  
 
 ---
-<!-- .slide: style="text-align: left;"> -->
 
 ## Formule con KaTeX
+
+<!-- .slide: style="text-align: left;"> -->
+
 KaTeX è una versione web di LaTeX. 
 
-La *funzione* $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ è soddisfatta da:
+La *funzione* $\Gamma(n) = (n-1)!,\forall n\in\mathbb N$ è soddisfatta da:
 
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
