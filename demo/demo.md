@@ -267,6 +267,7 @@ Vari effetti di transizione...
 <!-- data-transition="zoom" -->
 
 ## Transizioni: zoom
+ciao
 ---
 
 <!-- data-transition="slide" -->
