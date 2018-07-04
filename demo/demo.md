@@ -100,6 +100,7 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 
 * per forzare l'accapo, mettere due spazi
 * il carattere `\` permette di fare *escape* dei caratteri speciali
+* premere B o . per sospendere la presentazione
 
 ---
 
@@ -282,3 +283,39 @@ bau
 
 ## Transizioni: fade
 ---
+
+## Sfondo
+
+- colore: `<section data-background="#dddddd">`
+- immagine: `<section data-background="http://www.sito.com/immagine.png">`
+- anche video e gif animate
+
+---
+
+## Esportazione PDF
+
+1. Aggiungi al link `?print-pdf` 
+(http://localhost/slide.html/?print-pdf)
+2. da Chrome: stampa -> 
+3. pagina: **landscape**
+4. margini: **none**
+5. spunta: **Background Graphics**
+6. **Salva come PDF.**
+
+
+---
+
+## Hosting
+
+La presentazione può essere ospitata su un qualunque server:
+- su rawgit: pubblico accessibile a tutti
+- su pc locale: velocità in sviluppo
+
+---
+
+# Domande?
+
+---
+
+
+
