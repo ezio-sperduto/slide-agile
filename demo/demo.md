@@ -209,13 +209,11 @@ $$
 
 <section class="diagram-slide">
     <span class="diagram-data" style="display:none;">
-		graph LR;
-  		A(AAAA)==> B(B node);
-  		B==> C(SEE SEE);
-
-  		class A diag-a-styles;
-  		class B diag-b-styles
-  		class C diag-c-styles;
+graph LR
+A[Square Rect] -- Link text --> B((Circle))
+A --> C(Round Rect)
+B --> D{Rhombus}
+C --> D
      </span>
      <!-- Diagram will be displayed in this DIV -->
     <div class="diagram-display"></div>
