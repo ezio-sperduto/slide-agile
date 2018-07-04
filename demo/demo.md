@@ -265,8 +265,8 @@ Altre classi valide:
 Vari effetti di transizione...
 
 ---
-		## Transizioni: zoom
-
+## Transizioni: zoom {data-transition="zoom"}
+vv
 ---
 
 <!-- .slide: data-transition="slide" -->
