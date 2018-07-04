@@ -70,8 +70,8 @@ Altre classi valide:
 - fragment fade-up
 - fragment current-visible
 ...
----
 
+---
 ## Transizioni
 Vari effetti di transizione
 Per la configurazione globale, impostare il parametro di inizializzazione `transition`.  
