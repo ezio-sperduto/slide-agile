@@ -265,12 +265,7 @@ Altre classi valide:
 Vari effetti di transizione...
 
 ---
-<section data-transition="zoom">
-	<textarea data-template>
 		## Transizioni: zoom
-		textarea
-	</textarea>
-</section>
 
 ---
 
