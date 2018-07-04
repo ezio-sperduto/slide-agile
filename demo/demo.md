@@ -20,7 +20,6 @@ MarkDown + Reveal.js
 ## Formattazione
 * *corsivo* `*corsivo*` (asterisco singolo)  
 * **grassetto** `**grassetto**` (asterisco doppio)  
-* __sottolineato__ `__sottolineato__` (underscore doppio)  
 * ~~barrato~~ `~~barrato~~` (doppia tilde)   
 *Esempio **che** combina* gli **stili** per ~~ottenere~~ un gran __risultato__.
 
@@ -265,20 +264,20 @@ Altre classi valide:
 Vari effetti di transizione...
 
 ---
-<!-- -- data-transition="zoom" -->
+<!-- data-transition="zoom" -->
 
 ## Transizioni: zoom
 ---
 
-<!-- -- data-transition="slide" -->
+<!-- data-transition="slide" -->
 
 ## Transizioni: slide
 ---
-<!-- -- data-transition="concave" -->
+<!-- data-transition="concave" -->
 
 ## Transizioni: concave
 ---
-<!-- -- data-transition="fade" -->
+<!-- data-transition="fade" -->
 
 ## Transizioni: fade
 ---
