@@ -210,9 +210,9 @@ $$
 <section class="diagram-slide">
     <span class="diagram-data" style="display:none;">
 graph LR
-A[Square Rect] -- Link text --> B((Circle))
-A --> C(Round Rect)
-B --> D{Rhombus}
+A[Rettangolo] -- Arco --> B((Cerchio))
+A --> C(Rett.smussato)
+B --> D{Rombo}
 C --> D
      </span>
      <!-- Diagram will be displayed in this DIV -->
