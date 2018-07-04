@@ -183,8 +183,8 @@ per ottenere
 
 Formule matematiche con l'estensione KaTeX (versione web di LaTeX):
 
-La *funzione Gamma* che soddisfa $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$  
-è l'integrale di Eulero:
+###### La *funzione Gamma* che soddisfa $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$  
+###### è l'integrale di Eulero:
 
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
