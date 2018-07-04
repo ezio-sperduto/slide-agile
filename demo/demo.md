@@ -358,10 +358,18 @@ $$
 La presentazione può essere ospitata su un qualunque server:
 - su rawgit: pubblico accessibile a tutti
 - su pc locale: velocità in sviluppo
+---
 
+# Fine
+grazie per l'attenzione
 ---
 
 # Domande?
+---
 
+## Feedback anonimo
+- link
+- qr
+- bozza feedback
 
 
