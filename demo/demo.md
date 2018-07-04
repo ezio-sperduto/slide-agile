@@ -203,6 +203,7 @@ $$
 
 <!-- .slide: data-background="#FFFFFF" -->
 <!-- .slide: data-color="#333333" -->
+<!-- .svg: font-size="50%" -->
 
 ## Diagrammi con *mermaid*
 
