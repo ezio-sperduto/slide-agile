@@ -121,18 +121,18 @@ Per la singola slide aggiungere:
 
 - immagine sfondo: 
 ```
-<!-- .slide: data-background="http://xyz.it/img.jpg" -->
+<!-- .slide: data-background="http://xy.it/img.jpg" -->
 ```
 ---
 
 <!-- .slide: data-background="https://cdn.css-tricks.com/wp-content/uploads/2018/04/react-svg-component-library-1.gif" -->
-<!-- .slide: data-color="#000000" -->
+<!-- .slide: data-color="#FFFFFF" -->
 
 ## Sfondo e colori
 
 - video e gif: 
 ```
-<!-- .slide: data-background="http://xyz.it/img.gif" -->
+<!-- .slide: data-background="http://xy.it/img.gif" -->
 ```
 ---
 
