@@ -314,7 +314,6 @@ La presentazione può essere ospitata su un qualunque server:
 
 # Domande?
 
----
 
 <section data-transition="zoom">
 	<h2>This slide will override the presentation transition and zoom!</h2>
