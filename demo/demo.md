@@ -209,15 +209,13 @@ $$
 
 <section class="diagram-slide">
     <span class="diagram-data" style="display:none;">
-		sequenceDiagram
-		Alice ->> Bob: Come stai Bob?
-		Bob-->>John: Come  John?
-		Bob--x Alice: Bene grazie!
-		Bob-x John: Bene grazie!
-		Note right of John: Informazioni sullo stato di Bob.
+		graph LR;
+  		A(AAAA)==> B(B node);
+  		B==> C(SEE SEE);
 
-		Bob-->Alice: Controllo con John...
-		Alice->John: Si... come va John?
+  		class A diag-a-styles;
+  		class B diag-b-styles
+  		class C diag-c-styles;
      </span>
      <!-- Diagram will be displayed in this DIV -->
     <div class="diagram-display"></div>
