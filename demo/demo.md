@@ -191,12 +191,11 @@ $$
 $$
 
 ---
-<!-- .slide: style="text-align: left;"> -->
 
 ## Formule con KaTeX
 - la codifica delle formule è la stessa di LaTeX
-- per le formule inline si usa il `\$` singolo
-- per le formule in blocco si usa `\$\$` doppio
+- per le formule inline si usa il \$ singolo
+- per le formule in blocco si usa \$\$ doppio
 
 ---
 #Ciao.
