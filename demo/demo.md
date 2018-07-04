@@ -274,11 +274,12 @@ Vari effetti di transizione...
 
 ---
 
-<!-- data-transition="slide" -->
+<!-- .slide: data-transition="slide" -->
 
 ## Transizioni: slide
+
 ---
-<!-- data-transition="concave" -->
+<!-- .slide: data-transition="concave" -->
 
 ## Transizioni: concave
 ---
