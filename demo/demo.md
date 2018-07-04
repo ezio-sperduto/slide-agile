@@ -208,15 +208,15 @@ $$
 
 <section class="diagram-slide">
     <span class="diagram-data" style="display:none;">
-sequenceDiagram
-Alice ->> Bob: Ciao Bob, come stai?
-Bob-->>John: Come va a te John?
-Bob--x Alice: I am good thanks!
-Bob-x John: I am good thanks!
-Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+		sequenceDiagram
+		Alice ->> Bob: Come stai Bob?
+		Bob-->>John: Come  John?
+		Bob--x Alice: Bene grazie!
+		Bob-x John: Bene grazie!
+		Note right of John: Informazioni sullo stato di Bob.
 
-Bob-->Alice: Checking with John...
-Alice->John: Yes... John, how are you?
+		Bob-->Alice: Controllo con John...
+		Alice->John: Si... come va John?
      </span>
      <!-- Diagram will be displayed in this DIV -->
     <div class="diagram-display"></div>
