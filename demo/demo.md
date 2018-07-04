@@ -180,7 +180,7 @@ per ottenere
 ---
 
 ## Formule con KaTeX
-Formule matematiche con l'estensione KaTeX (versione web di LaTeX):
+###### Formule matematiche con l'estensione KaTeX (versione web di LaTeX):
 
 La *funzione* che soddisfa $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ è l'integrale di Eulero:
 
