@@ -236,6 +236,48 @@ Tipi differenti di **fragments**:
 <p class="fragment shrink">rimpicciolimento</p>
 <p class="fragment fade-out">scomparsa</p>
 <p class="fragment fade-up">comparsa (da sopra, sotto, destra o sinistra)</p>
-<p class="fragment current-visible">comparsa a dissolvenza</p>
+<p class="fragment current-visible">comparsa e scomparsa</p>
 <p>Evidenziazione <span class="fragment highlight-red">rosso</span> <span class="fragment highlight-blue">blu</span> <span class="fragment highlight-green">verde</span></p>
+
+---
+## Animazioni / Fragments
+Per aggiungere un **fragment**,   
+mettere un tag **p** o **span** con classe  
+**fragment**:
+```
+<p class="fragment">...</p>
+<span class="fragment">...</span>
+```
+
+---
+## Animazioni / Fragments
+Altre classi valide:
+- fragment grow
+- fragment shrink
+- fragment fade-out
+- fragment fade-up
+- fragment current-visible
+...
+---
+
+## Transizioni
+Vari effetti di transizione...
+
+---
+<!-- -- data-transition="zoom" -->
+
+## Transizioni: zoom
+---
+
+<!-- -- data-transition="slide" -->
+
+## Transizioni: slide
+---
+<!-- -- data-transition="concave" -->
+
+## Transizioni: concave
+---
+<!-- -- data-transition="fade" -->
+
+## Transizioni: fade
 ---
