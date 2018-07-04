@@ -179,7 +179,7 @@ per ottenere
 
 ---
 
-## Formule con KaTeX
+## Formule con *KaTeX*
 
 KaTeX è una versione web di LaTeX. 
 
@@ -192,7 +192,7 @@ $$
 
 ---
 
-## Formule con KaTeX
+## Formule con *KaTeX*
 - la codifica delle formule è la stessa di LaTeX
 - formule inline, dollaro singolo
 - formula blocco, dollaro doppio
@@ -200,4 +200,19 @@ $$
 \$\Gamma(n) = (n-1)!,\forall n\in\mathbb N\$
 ```
 ---
-#Ciao.
+
+## Diagrammi con *mermaid*
+
+```mermaid
+sequenceDiagram
+Alice ->> Bob: Ciao Bob, come stai?
+Bob-->>John: Come va a te John?
+Bob--x Alice: I am good thanks!
+Bob-x John: I am good thanks!
+Note right of John: Bob thinks a long<br/>long time, so long<br/>that the text does<br/>not fit on a row.
+
+Bob-->Alice: Checking with John...
+Alice->John: Yes... John, how are you?
+```
+
+---
