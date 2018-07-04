@@ -179,10 +179,8 @@ per ottenere
 
 ---
 
-## Formule con KaTeX
-###### Formule matematiche con l'estensione KaTeX (versione web di LaTeX):
-
-La *funzione* che soddisfa $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ è l'integrale di Eulero:
+## Formule matematiche con KaTeX
+Versione web di LaTeX. Formula inline $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ e formula blocco
 
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
