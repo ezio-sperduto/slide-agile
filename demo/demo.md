@@ -179,19 +179,20 @@ per ottenere
 
 ---
 
-## Formule con Katex
+## Formule con KaTeX
 
-## KaTeX
+Formule matematiche con l'estensione KaTeX (versione web di LaTeX):
 
-You can render LaTeX mathematical expressions using [KaTeX](https://khan.github.io/KaTeX/):
-
-The *Gamma function* satisfying $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$ is via the Euler integral
+La *funzione Gamma* che soddisfa $\Gamma(n) = (n-1)!\quad\forall n\in\mathbb N$  
+è l'integrale di Eulero:
 
 $$
 \Gamma(z) = \int_0^\infty t^{z-1}e^{-t}dt\,.
 $$
 
-> You can find more information about **LaTeX** mathematical expressions [here](http://meta.math.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference).
+> La codifica delle formule è la stessa di LaTeX
+> per le formule inline si usa il $ singolo
+> per le formule in blocco si usa $$ doppio
 
 ---
 #Ciao.
