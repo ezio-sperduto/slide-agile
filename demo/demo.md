@@ -220,7 +220,6 @@ C --> D
 </section>
 
 ---
-
 ## Animazioni / Fragments
 
 Premi avanti...
@@ -228,10 +227,7 @@ Premi avanti...
 <p class="fragment">... per attivare ...</p>
 
 <span class="fragment">... una slide con </span> <span class="fragment">**fragments**</span><span class="fragment">!!!</span>
-
-
 ---
-
 ## Animazioni / Fragments
 
 Tipi differenti di **fragments**:
