@@ -264,10 +264,10 @@ Altre classi valide:
 Vari effetti di transizione...
 
 ---
-<!-- data-transition="zoom" -->
-
+<section data-transition="zoom">
 ## Transizioni: zoom
 ciao
+</section>
 ---
 
 <!-- data-transition="slide" -->
