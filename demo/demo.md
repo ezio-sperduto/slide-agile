@@ -8,6 +8,9 @@ MarkDown + Reveal.js
 
 ---
 
+<!-- .slide: data-background="#FF0000" -->
+<!-- .slide: data-color="#333333" -->
+
 ## Inizializzare le slide
 1. creare repo o cartella su **GitHub**
 2. caricare file testo vuoto **slide.md**
