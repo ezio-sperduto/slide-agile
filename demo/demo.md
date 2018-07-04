@@ -266,9 +266,12 @@ Vari effetti di transizione...
 
 ---
 <section data-transition="zoom">
-## Transizioni: zoom
-bau
+	<textarea data-template>
+		## Transizioni: zoom
+		textarea
+	</textarea>
 </section>
+
 ---
 
 <!-- data-transition="slide" -->
