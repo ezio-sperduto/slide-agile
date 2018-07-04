@@ -5,10 +5,9 @@
 ## Demo Slide web
 MarkDown + Reveal.js  
 2018-07-02 Infosons - Ezio Sperduto
-
 ---
 
-<!-- .slide: data-background="#FF0000" -->
+<!-- .slide: data-background="#4D7E65" -->
 <!-- .slide: data-color="#333333" -->
 
 ## Inizializzare le slide
@@ -17,7 +16,6 @@ MarkDown + Reveal.js
 3. copiare file wrapper **index.html** che usa *Reveal.js* e punta a *slide.md*
 4. mettere link-raw di *index.html* di GitHub su [https://rawgit.com/](https://rawgit.com/) per generare la presentazione
 5. **lavorare su *slide.md* per ottenere la presentazione!!!**
-
 ---
 
 ## Formattazione
@@ -25,7 +23,6 @@ MarkDown + Reveal.js
 * **grassetto** `**grassetto**` (asterisco doppio)  
 * ~~barrato~~ `~~barrato~~` (doppia tilde)   
 *Esempio **che** combina* gli **stili** per ~~ottenere~~ un gran __risultato__.
-
 ---
 
 ## Intestazioni
@@ -33,8 +30,8 @@ Iniziare una riga con:
 **\#** equivale a marcare come `<H1>`  
 **\##** equivale a marcare come `<H2>`  
 **\####** equivale a marcare come `<H4>`  
-
 ---
+
 ## Animazioni / Fragments
 
 Premi avanti...
@@ -43,6 +40,7 @@ Premi avanti...
 
 <span class="fragment">... una slide con </span> <span class="fragment">**fragments**</span><span class="fragment">!!!</span>
 ---
+
 ## Animazioni / Fragments
 
 Tipi differenti di **fragments**:
@@ -53,8 +51,8 @@ Tipi differenti di **fragments**:
 <p class="fragment fade-up">comparsa (da sopra, sotto, destra o sinistra)</p>
 <p class="fragment current-visible">comparsa e scomparsa</p>
 <p>Evidenziazione <span class="fragment highlight-red">rosso</span> <span class="fragment highlight-blue">blu</span> <span class="fragment highlight-green">verde</span></p>
-
 ---
+
 ## Animazioni / Fragments
 Per aggiungere un **fragment**,   
 mettere un tag **p** o **span** con classe  
@@ -63,8 +61,8 @@ mettere un tag **p** o **span** con classe
 <p class="fragment">...</p>
 <span class="fragment">...</span>
 ```
-
 ---
+
 ## Animazioni / Fragments
 Altre classi valide:
 - fragment grow
@@ -73,8 +71,8 @@ Altre classi valide:
 - fragment fade-up
 - fragment current-visible
 ...
-
 ---
+
 ## Transizioni
 Vari effetti di transizione
 Per la configurazione globale, impostare il parametro di inizializzazione `transition`.  
@@ -82,36 +80,49 @@ Per la singola slide aggiungere:
 ```
 <!-- .slide: data-transition="zoom" -->
 ```
-
 ---
+
 <!-- .slide: data-transition="zoom" -->
 ## Transizioni: zoom
-
 ---
+
 <!-- .slide: data-transition="slide" -->
 ## Transizioni: slide
-
 ---
+
 <!-- .slide: data-transition="convex" -->
 ## Transizioni: convex
-
 ---
+
 <!-- .slide: data-transition="concave" -->
 ## Transizioni: concave
-
 ---
+
 <!-- .slide: data-transition="fade" -->
 ## Transizioni: fade
-
 ---
 
-## Sfondo
+<!-- .slide: data-background="#4D7E65" -->
+<!-- .slide: data-color="#DDDDDD" -->
+## Sfondo e colori
 
-- colore: `<section data-background="#dddddd">`
-- immagine: `<section data-background="http://www.sito.com/immagine.png">`
+- colore sfondo: `<!-- .slide: data-background="#4D7E65" -->`
+- colore carattere: `<!-- .slide: data-color="#DDDDDD" -->`
+---
+
+<!-- .slide: data-background="https://cdn.pixabay.com/photo/2017/05/21/15/14/balloon-2331488_960_720.jpg" -->
+## Sfondo e colori
+
+- immagine sfondo: `<!-- .slide: data-background="http://site.com/image.jpg" -->`
 - anche video e gif animate
-
 ---
+
+<!-- .slide: data-background="https://cdn.css-tricks.com/wp-content/uploads/2018/04/react-svg-component-library-1.gif" -->
+## Sfondo e colori
+
+- video e gif: `<!-- .slide: data-background="http://site.com/image.gif" -->`
+---
+
 ## Link
 
 Per i link automatici basta scrivere www.link.it  
@@ -214,7 +225,7 @@ public interface Pippo{
 <!-- .slide: data-background="#FFFFFF" -->
 <!-- .slide: data-color="#333333" -->
 ## Tabelle
-Per le tabelle si possono usano **\| \- :**
+Per le tabelle si usano **\| \- :**
 ```
 Nome | Cognome | Telefono
 ------------ | :-------------: | ------------:
