@@ -138,10 +138,12 @@ Per la singola slide aggiungere:
 
 ## Link
 
-Per i link automatici basta scrivere www.link.it  
-Per link più elaborati è sufficiente:  
-`[Testo mostrato](http://www.link.it)`  
-E si ottiene [Testo mostrato](http://www.link.it)
+- per i link automatici basta scrivere www.link.it  
+- per link più elaborati è sufficiente:  
+```
+[Testo mostrato](http://www.link.it)
+```
+e si ottiene [Testo mostrato](http://www.link.it)
 
 ---
 
