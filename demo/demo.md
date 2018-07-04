@@ -194,8 +194,10 @@ $$
 
 ## Formule con KaTeX
 - la codifica delle formule è la stessa di LaTeX
-- per le formule inline si usa il \$ singolo
-- per le formule in blocco si usa \$\$ doppio
-
+- formule inline, dollaro singolo
+- formula blocco, dollaro doppio
+```
+\$\Gamma(n) = (n-1)!,\forall n\in\mathbb N\$
+```
 ---
 #Ciao.
