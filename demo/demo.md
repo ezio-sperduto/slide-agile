@@ -32,7 +32,79 @@ Iniziare una riga con:
 **\####** equivale a marcare come `<H4>`  
 
 ---
+## Animazioni / Fragments
 
+Premi avanti...
+
+<p class="fragment">... per attivare ...</p>
+
+<span class="fragment">... una slide con </span> <span class="fragment">**fragments**</span><span class="fragment">!!!</span>
+---
+## Animazioni / Fragments
+
+Tipi differenti di **fragments**:
+
+<p class="fragment grow">ingradimento</p>
+<p class="fragment shrink">rimpicciolimento</p>
+<p class="fragment fade-out">scomparsa</p>
+<p class="fragment fade-up">comparsa (da sopra, sotto, destra o sinistra)</p>
+<p class="fragment current-visible">comparsa e scomparsa</p>
+<p>Evidenziazione <span class="fragment highlight-red">rosso</span> <span class="fragment highlight-blue">blu</span> <span class="fragment highlight-green">verde</span></p>
+
+---
+## Animazioni / Fragments
+Per aggiungere un **fragment**,   
+mettere un tag **p** o **span** con classe  
+**fragment**:
+```
+<p class="fragment">...</p>
+<span class="fragment">...</span>
+```
+
+---
+## Animazioni / Fragments
+Altre classi valide:
+- fragment grow
+- fragment shrink
+- fragment fade-out
+- fragment fade-up
+- fragment current-visible
+...
+---
+
+## Transizioni
+Vari effetti di transizione
+Per la configurazione globale, impostare il parametro di inizializzazione `transition`.  
+Per la singola slide aggiungere:
+```
+<!-- .slide: data-transition="zoom" -->
+```
+
+---
+<!-- .slide: data-transition="zoom" -->
+## Transizioni: zoom
+
+---
+<!-- .slide: data-transition="slide" -->
+## Transizioni: slide
+
+---
+<!-- .slide: data-transition="concave" -->
+## Transizioni: concave
+
+---
+<!-- .slide: data-transition="fade" -->
+## Transizioni: fade
+
+---
+
+## Sfondo
+
+- colore: `<section data-background="#dddddd">`
+- immagine: `<section data-background="http://www.sito.com/immagine.png">`
+- anche video e gif animate
+
+---
 ## Link
 
 Per i link automatici basta scrivere www.link.it  
@@ -221,75 +293,7 @@ C --> D
 </section>
 
 ---
-## Animazioni / Fragments
 
-Premi avanti...
-
-<p class="fragment">... per attivare ...</p>
-
-<span class="fragment">... una slide con </span> <span class="fragment">**fragments**</span><span class="fragment">!!!</span>
----
-## Animazioni / Fragments
-
-Tipi differenti di **fragments**:
-
-<p class="fragment grow">ingradimento</p>
-<p class="fragment shrink">rimpicciolimento</p>
-<p class="fragment fade-out">scomparsa</p>
-<p class="fragment fade-up">comparsa (da sopra, sotto, destra o sinistra)</p>
-<p class="fragment current-visible">comparsa e scomparsa</p>
-<p>Evidenziazione <span class="fragment highlight-red">rosso</span> <span class="fragment highlight-blue">blu</span> <span class="fragment highlight-green">verde</span></p>
-
----
-## Animazioni / Fragments
-Per aggiungere un **fragment**,   
-mettere un tag **p** o **span** con classe  
-**fragment**:
-```
-<p class="fragment">...</p>
-<span class="fragment">...</span>
-```
-
----
-## Animazioni / Fragments
-Altre classi valide:
-- fragment grow
-- fragment shrink
-- fragment fade-out
-- fragment fade-up
-- fragment current-visible
-...
----
-
-## Transizioni
-Vari effetti di transizione...
-
----
-## Transizioni: zoom {data-transition="zoom"}
-vv
----
-
-<!-- .slide: data-transition="slide" -->
-
-## Transizioni: slide
-
----
-<!-- .slide: data-transition="concave" -->
-
-## Transizioni: concave
----
-<!-- data-transition="fade" -->
-
-## Transizioni: fade
----
-
-## Sfondo
-
-- colore: `<section data-background="#dddddd">`
-- immagine: `<section data-background="http://www.sito.com/immagine.png">`
-- anche video e gif animate
-
----
 
 ## Esportazione PDF
 
