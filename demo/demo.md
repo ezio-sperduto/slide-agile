@@ -121,7 +121,7 @@ Per la singola slide aggiungere:
 
 - immagine sfondo: 
 ```
-<!-- .slide: data-background="http://site.com/image.jpg" -->
+<!-- .slide: data-background="http://xyz.it/img.jpg" -->
 ```
 ---
 
@@ -132,7 +132,7 @@ Per la singola slide aggiungere:
 
 - video e gif: 
 ```
-<!-- .slide: data-background="http://site.com/image.gif" -->
+<!-- .slide: data-background="http://xyz.it/img.gif" -->
 ```
 ---
 
