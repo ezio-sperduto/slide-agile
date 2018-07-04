@@ -227,6 +227,19 @@ Premi avanti...
 
 <p class="fragment">... per attivare ...</p>
 
-<span class="fragment">... una slide con </span> <span class="fragment">frammenti</span> <span class="fragment">!!!</span>
+<span class="fragment">... una slide con </span> <span class="fragment">**fragments**</span><span class="fragment">!!!</span>
 
+
+---
+
+## Animazioni / Fragments
+
+Tipi differenti di **fragments**:
+
+<p class="fragment grow">ingrandire</p>
+<p class="fragment shrink">rimpicciolire</p>
+<p class="fragment fade-out">scomparire</p>
+<p class="fragment fade-up">comparire (also down, left and right!)</p>
+<p class="fragment current-visible">current-visible</p>
+<p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
 ---
