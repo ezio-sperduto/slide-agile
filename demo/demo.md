@@ -220,3 +220,13 @@ C --> D
 </section>
 
 ---
+
+## Animazioni / Fragments
+
+Premi avanti...
+
+<p class="fragment">... per attivare ...</p>
+
+<span class="fragment">... una slide con </span> <span class="fragment">frammenti</span> <span class="fragment">!!!</span>
+
+---
