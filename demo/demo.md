@@ -221,13 +221,14 @@ blocco
 
 ## Blocco di codice "verbatim"
 
-* auto-highlight: specificare un linguaggio:  
-\```java  
+* auto-highlight: specificare un linguaggio:
+```  
+\`\`\`java  
 public interface Pippo{  
      abstract int somma(int a,int b);  
 }  
-\```  
-  
+\`\`\`  
+``` 
 per ottenere le parole chiave evidenziate:
 
 ```java
