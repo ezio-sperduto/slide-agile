@@ -229,9 +229,9 @@ blocco di codice
 
 * auto-highlight: specificare un linguaggio:
 <pre>
-```java  
+``` java  
 public interface Pippo{
-  abstract int somma(int a,...
+  abstract int somma(int a,int b);
 }
 ```
 </pre>
