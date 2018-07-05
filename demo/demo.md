@@ -210,8 +210,9 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 
 ## Blocco di codice
 
-Per i blocchi di codice monospaziato si usa il carattere **apice inverso** o **backtick**  
-* per il codice *inline* è sufficiente un solo backtick, ovvero scrivendo
+Per i blocchi di codice monospaziato  
+si usa il carattere **apice inverso**  
+* codice *inline*, un solo backtick:
 ```
 ...la funzione `int sum(int a,int b)` serve...
 ``` 
