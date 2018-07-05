@@ -211,12 +211,17 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 ## Blocco di codice
 
 Per i blocchi di codice monospaziato si usa il carattere **apice inverso** o **backtick**  
-* per il blocco di codice *inline* è sufficiente un solo backtick `esempio` (\`esempio\`)
+* per il codice *inline* è sufficiente un solo backtick, ovvero scrivendo
+```
+...la funzione `int sum(int a,int b)` serve...
+``` 
+ottengo: ...la funzione `int sum(int a,int b)` serve...
 * per il blocco verticale occorre identificarlo con tre backtick  
-\```  
-blocco  
-\```  
-
+<pre>
+```  
+blocco di codice 
+```  
+</pre>
 ---
 
 ## Blocco di codice
@@ -227,7 +232,7 @@ blocco
 public interface Pippo{
       abstract int somma(int a,int b);
 }
-&#96;&#96;&#96;
+```;
 </pre>
 per ottenere le parole chiave evidenziate:
 
