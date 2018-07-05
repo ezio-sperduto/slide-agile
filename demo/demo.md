@@ -223,11 +223,11 @@ blocco
 
 * auto-highlight: specificare un linguaggio:
 ```  
-\`\`\`java  
+&#96;&#96;&#96;java  
 public interface Pippo{  
      abstract int somma(int a,int b);  
 }  
-\`\`\`  
+&#96;&#96;&#96; 
 ``` 
 per ottenere le parole chiave evidenziate:
 
