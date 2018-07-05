@@ -222,13 +222,13 @@ blocco
 ## Blocco di codice
 
 * auto-highlight: specificare un linguaggio:
-```  
+<code>
 &#96;&#96;&#96;java  
 public interface Pippo{  
      abstract int somma(int a,int b);  
 }  
 &#96;&#96;&#96; 
-``` 
+</code>
 per ottenere le parole chiave evidenziate:
 
 ```java
