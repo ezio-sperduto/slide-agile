@@ -216,7 +216,7 @@ si usa il carattere **apice inverso**
 ```
 ...la funzione `int sum(int a,int b)` serve...
 ``` 
-ottengo: ...la funzione `int sum(int a,int b)` serve...
+...la funzione `int sum(int a,int b)` serve...
 * per il blocco verticale occorre identificarlo con tre backtick  
 <pre>
 ```  
@@ -231,9 +231,9 @@ blocco di codice
 <pre>
 ```java  
 public interface Pippo{
-      abstract int somma(int a,int b);
+  abstract int somma(int a,...
 }
-```;
+```
 </pre>
 per ottenere le parole chiave evidenziate:
 
