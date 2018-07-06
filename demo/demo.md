@@ -27,11 +27,11 @@ MarkDown + Reveal.js
 ```
 **grassetto**
 ```
-* ~~barrato~~  (doppia tilde)   
+* ~~barrato~~  (tilde)   
 ```
 ~barrato~
 ```
-*Esempio **che** combina* gli **stili** per ~~ottenere~~ un gran __risultato__.
+*Esempio **che** combina* gli **stili** per ~ottenere~ un gran **risultato**.
 ---
 
 ## Intestazioni
