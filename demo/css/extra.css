@@ -1,5 +1,9 @@
 .reveal .piccolo{ 
 	font-size: 26px;
 	display: block;
-    text-align: justify;
+	text-align: justify;
+}
+
+.reveal .piccolo code{
+	color: #ff0000; 
 }
