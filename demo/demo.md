@@ -134,7 +134,7 @@ Per la singola slide aggiungere:
 ```
 ---
 
-<!-- .slide: data-color="#000" -->
+<!-- h2: data-color="#000" -->
 <!-- .slide: data-background="https://cdn.css-tricks.com/wp-content/uploads/2018/04/react-svg-component-library-1.gif" -->
 ## Sfondo e colori
 
