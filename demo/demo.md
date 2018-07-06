@@ -228,7 +228,7 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 ``` 
 ...la funzione `int sum(int a,int b)` serve...
 
-<span class="piccolo">
+<span class="piccolo" style="font-size:14px">
 Lorem ipsum dolor sit amet, consectetur adipisci   
 elit, sed eiusmod `codice` incidunt ut labore et dolore   
 magna aliqua. Ut enim ad minim veniam, quis nostrum   
