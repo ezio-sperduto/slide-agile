@@ -215,7 +215,7 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 * per accapo, lasciare due spazi
 * per aprire un nuovo paragarfo, lasciare una rigua vuota
 * il carattere `\` permette di fare *escape* dei caratteri speciali
-* premere [](key-b.png) oppure [](key-dot.png) per sospendere la presentazione
+* premere ![kb](key-b.png) oppure ![kd](key-dot.png) per sospendere la presentazione
 
 ---
 
