@@ -219,6 +219,7 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 
 ---
 
+<!-- .piccolo: font-size="14px" -->
 ## Blocco di codice
  
 * blocco *inline*, un solo backtick:
@@ -227,11 +228,13 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 ``` 
 ...la funzione `int sum(int a,int b)` serve...
 
-> Lorem ipsum dolor sit amet, consectetur adipisci   
-> elit, sed eiusmod `codice` incidunt ut labore et dolore   
-> magna aliqua. Ut enim ad minim veniam, quis nostrum   
-> exercitationem ullam corporis suscipit laboriosam,  
-> nisi ut aliquid ex ea commodi consequatur. 
+<span class="piccolo">
+Lorem ipsum dolor sit amet, consectetur adipisci   
+elit, sed eiusmod `codice` incidunt ut labore et dolore   
+magna aliqua. Ut enim ad minim veniam, quis nostrum   
+exercitationem ullam corporis suscipit laboriosam,  
+nisi ut aliquid ex ea commodi consequatur. 
+</span>
 
 * per il blocco verticale occorre identificarlo con tre backtick  
 <pre>
