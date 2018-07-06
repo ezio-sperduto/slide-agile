@@ -130,25 +130,25 @@ Per la singola slide aggiungere:
 
 - immagine sfondo: 
 ```
-<!-- .slide: data-background="http://xy.it/img.jpg" -->
+<!-- .slide: data-background="http://.../img.jpg" -->
 ```
 ---
 
-<!-- .slide: data-background="https://cdn.css-tricks.com/wp-content/uploads/2018/04/react-svg-component-library-1.gif" -->
+<!-- .slide: data-background="matrix.gif" -->
 <!-- .reveal: data-color="#000000" -->
 
 ## Sfondo e colori
 
 - video e gif: 
 ```
-<!-- .slide: data-background="http://xy.it/img.gif" -->
+<!-- .slide: data-background="http://.../img.gif" -->
 ```
 ---
 
 ## Link
 
-- per i link automatici basta scrivere www.link.it  
-- per link più elaborati è sufficiente:  
+- link automatici, basta scrivere http://www.link.it  
+- link custom:  
 ```
 [Testo mostrato](http://www.link.it)
 ```
