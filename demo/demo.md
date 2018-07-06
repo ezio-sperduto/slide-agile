@@ -220,14 +220,19 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 ---
 
 ## Blocco di codice
-
-Per i blocchi di codice monospaziato  
-si usa il carattere **apice inverso**  
-* codice *inline*, un solo backtick:
+ 
+* blocco *inline*, un solo backtick:
 ```
 ...la funzione `int sum(int a,int b)` serve...
 ``` 
 ...la funzione `int sum(int a,int b)` serve...
+
+> Lorem ipsum dolor sit amet, consectetur adipisci 
+> elit, sed eiusmod `codice` incidunt ut labore et dolore 
+> magna aliqua. Ut enim ad minim veniam, quis nostrum 
+> exercitationem ullam corporis suscipit laboriosam, 
+> nisi ut aliquid ex ea commodi consequatur.
+
 * per il blocco verticale occorre identificarlo con tre backtick  
 <pre>
 ```  
