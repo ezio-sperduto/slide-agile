@@ -219,15 +219,13 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 
 ---
 
-<!-- .piccolo: font-size="14px" -->
+<!-- .reveal .piccolo code: color="#00ff00" -->
 ## Blocco di codice
  
 * blocco *inline*, un solo backtick:
 ```
-...la funzione `int sum(int a,int b)` serve...
+...sed eiusmod `CODICE` incidunt...
 ``` 
-...la funzione `int sum(int a,int b)` serve...
-
 <span class="piccolo">
 Lorem ipsum dolor sit amet, consectetur adipisci 
 elit, sed eiusmod `CODICE` incidunt ut labore et dolore 
