@@ -27,7 +27,7 @@ MarkDown + Reveal.js
 ```
 **grassetto**
 ```
-* ~~barrato~~  (tilde)   
+* ~barrato~  (tilde)   
 ```
 ~barrato~
 ```
