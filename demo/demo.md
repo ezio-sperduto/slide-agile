@@ -29,7 +29,7 @@ MarkDown + Reveal.js
 ```
 * ~~barrato~~  (doppia tilde)   
 ```
-~~barrato~~
+~barrato~
 ```
 *Esempio **che** combina* gli **stili** per ~~ottenere~~ un gran __risultato__.
 ---
