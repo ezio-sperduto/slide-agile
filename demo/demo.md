@@ -139,7 +139,7 @@ Per la singola slide aggiungere:
 
 ## Sfondo e colori
 
-- video e gif: 
+- gif e video: 
 ```
 <!-- .slide: data-background="http://.../img.gif" -->
 ```
@@ -212,9 +212,10 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 
 ## Regole extra
 
-* per forzare l'accapo, mettere due spazi
+* per accapo, lasciare due spazi
+* per aprire un nuovo paragarfo, lasciare una rigua vuota
 * il carattere `\` permette di fare *escape* dei caratteri speciali
-* premere B o . per sospendere la presentazione
+* premere [](key-b.png) oppure [](key-dot.png) per sospendere la presentazione
 
 ---
 
