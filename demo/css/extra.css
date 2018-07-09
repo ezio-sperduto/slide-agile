@@ -1,5 +1,5 @@
-code { 
-	color: #00ff00; 
+.reveal .piccolo code{ 
+	color: red; 
 }
 
 .reveal .piccolo{ 
