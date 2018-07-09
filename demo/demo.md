@@ -248,11 +248,11 @@ nisi ut aliquid ex ea commodi consequatur.
 * auto-highlight: specificare un linguaggio:
 <pre>
   <code class="hljs lasso">
-``` java  
+&#96;&#96;&#96;java  
 public interface Pippo{
   abstract int somma(int a,int b);
 }
-```
+&#96;&#96;&#96;
   </code>
 </pre>
 per ottenere le parole chiave evidenziate:
