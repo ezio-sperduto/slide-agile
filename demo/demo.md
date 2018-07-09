@@ -235,9 +235,13 @@ nisi ut aliquid ex ea commodi consequatur.
 
 * per il blocco verticale occorre identificarlo con tre backtick  
 <pre>
-```  
-blocco di codice 
-```  
+  <code class=“hljs lasso”>
+    <span class=“hljs-string”>
+      ```  
+      blocco di codice 
+      ```  
+    </span> 
+  </code>
 </pre>
 ---
 
