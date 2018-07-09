@@ -114,7 +114,7 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 
 ## Blocco di codice
  
-* blocco *inline*, un solo backtick(AltGr+'):
+* blocco *inline*, un solo backtick(Alt+96):
 ```
 ...sed eiusmod `CODICE` incidunt...
 ``` 
