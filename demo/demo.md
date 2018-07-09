@@ -41,6 +41,169 @@ Iniziare una riga con:
 **\####** equivale a marcare come `<H4>`  
 ---
 
+## Link
+
+- link automatici, basta scrivere http://www.link.it  
+- link custom:  
+```
+[Testo mostrato](http://www.link.it)
+```
+e si ottiene [Testo mostrato](http://www.link.it)
+---
+
+## Citazioni
+
+Si scrive così:
+```
+> C'era una volta
+> in America...
+```
+
+per ottenere:
+> C'era una volta  
+> in America...
+
+---
+
+## Liste puntate
+```
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+```
+* Item 1
+* Item 2
+  * Item 2a
+  * Item 2b
+
+per la sottolista è necessario tabulare 
+---
+
+## Liste numerate
+```
+1. Item 1
+2. Item 2
+  * Item 2a
+  * Item 2b
+```
+1. Item 1
+2. Item 2
+  1. Item 2a
+  2. Item 2b
+
+per la sottolista è necessario tabulare 
+---
+
+## Immagini
+La sintassi è uguale al link, ma preceduta dal punto esclamativo:
+```
+![Nome_immagine](/percorso/relativo/immagine.png)
+```
+![Nome_immagine](git.jpg)  
+---
+
+## Regole extra
+
+* per accapo, lasciare due spazi
+* per aprire un nuovo paragarfo, lasciare una rigua vuota
+* il carattere `\` permette di fare *escape* dei caratteri speciali
+* premere ![kb](key-b.png) oppure ![kd](key-dot.png) per sospendere la presentazione
+
+---
+
+## Blocco di codice
+ 
+* blocco *inline*, un solo backtick:
+```
+...sed eiusmod `CODICE` incidunt...
+``` 
+<span class="piccolo">
+Lorem ipsum dolor sit amet, consectetur adipisci 
+elit, sed eiusmod `CODICE` incidunt ut labore et dolore 
+magna aliqua. Ut enim ad minim veniam, quis nostrum 
+exercitationem `CODICE` ullam corporis suscipit laboriosam, 
+nisi ut aliquid ex ea commodi consequatur. 
+</span>
+
+* per il blocco verticale occorre identificarlo con tre backtick  
+<pre>
+  <code class="hljs lasso">
+      ```  
+      blocco di codice 
+      ```  
+  </code>
+</pre>
+---
+
+## Blocco di codice
+
+* auto-highlight: specificare un linguaggio:
+<pre>
+  <code class="hljs lasso">
+&#96;&#96;&#96;java
+public interface Pippo{
+  abstract int somma(int a,int b);
+}
+&#96;&#96;&#96;
+  </code>
+</pre>
+per ottenere le parole chiave evidenziate:
+```java
+public interface Pippo{
+  abstract int somma(int a,int b);
+}
+```
+---
+<!-- .slide: data-background="#FFFFFF" -->
+<!-- .slide: data-color="#333333" -->
+## Tabelle
+Per le tabelle si usano **\| \- :**
+```
+Nome | Cognome | Telefono
+------------ | :-------------: | ------------:
+Steve | Jobs | 1234
+Bill | Gates | 666
+```
+e il risultato è
+
+Nome | Cognome | Telefono
+------------ | :-------------: | ------------:
+Steve | Jobs | 1234
+Bill | Gates | 666
+
+---
+
+## HTML incorporato
+E' possibile aggiungere HTML puro, e viene renderizzato correttamente:
+```
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+```
+<dl>
+  <dt>Definition list</dt>
+  <dd>Is something people use sometimes.</dd>
+
+  <dt>Markdown in HTML</dt>
+  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
+</dl>
+
+---
+## Linee orizzontali
+
+E' sufficiente usare 3 o più asterischi:  
+```
+*********  
+```
+per ottenere  
+*******  
+---
+
 ## Animazioni / Fragments
 
 Premi avanti...
@@ -143,172 +306,6 @@ Per la singola slide aggiungere:
 ```
 <!-- .slide: data-background="http://.../img.gif" -->
 ```
----
-
-## Link
-
-- link automatici, basta scrivere http://www.link.it  
-- link custom:  
-```
-[Testo mostrato](http://www.link.it)
-```
-e si ottiene [Testo mostrato](http://www.link.it)
-
----
-
-## Citazioni
-
-Si scrive così:
-```
-> C'era una volta
-> in America...
-```
-
-per ottenere:
-> C'era una volta  
-> in America...
-
----
-
-## Liste puntate
-```
-* Item 1
-* Item 2
-	* Item 2a
-	* Item 2b
-```
-* Item 1
-* Item 2
-	* Item 2a
-	* Item 2b
-
-per la sottolista è necessario tabulare	
-
----
-
-## Liste numerate
-```
-1. Item 1
-2. Item 2
-	* Item 2a
-	* Item 2b
-```
-1. Item 1
-2. Item 2
-	1. Item 2a
-	2. Item 2b
-
-per la sottolista è necessario tabulare	
-
----
-
-## Immagini
-La sintassi è uguale al link, ma preceduta dal punto esclamativo:
-```
-![Nome_immagine](/percorso/relativo/immagine.png)
-```
-![Nome_immagine](git.jpg)  
----
-
-## Regole extra
-
-* per accapo, lasciare due spazi
-* per aprire un nuovo paragarfo, lasciare una rigua vuota
-* il carattere `\` permette di fare *escape* dei caratteri speciali
-* premere ![kb](key-b.png) oppure ![kd](key-dot.png) per sospendere la presentazione
-
----
-
-## Blocco di codice
- 
-* blocco *inline*, un solo backtick:
-```
-...sed eiusmod `CODICE` incidunt...
-``` 
-<span class="piccolo">
-Lorem ipsum dolor sit amet, consectetur adipisci 
-elit, sed eiusmod `CODICE` incidunt ut labore et dolore 
-magna aliqua. Ut enim ad minim veniam, quis nostrum 
-exercitationem `CODICE` ullam corporis suscipit laboriosam, 
-nisi ut aliquid ex ea commodi consequatur. 
-</span>
-
-* per il blocco verticale occorre identificarlo con tre backtick  
-<pre>
-  <code class="hljs lasso">
-      ```  
-      blocco di codice 
-      ```  
-  </code>
-</pre>
----
-
-## Blocco di codice
-
-* auto-highlight: specificare un linguaggio:
-<pre>
-  <code class="hljs lasso">
-&#96;&#96;&#96;java
-public interface Pippo{
-  abstract int somma(int a,int b);
-}
-&#96;&#96;&#96;
-  </code>
-</pre>
-per ottenere le parole chiave evidenziate:
-```java
-public interface Pippo{
-	abstract int somma(int a,int b);
-}
-```
----
-<!-- .slide: data-background="#FFFFFF" -->
-<!-- .slide: data-color="#333333" -->
-## Tabelle
-Per le tabelle si usano **\| \- :**
-```
-Nome | Cognome | Telefono
------------- | :-------------: | ------------:
-Steve | Jobs | 1234
-Bill | Gates | 666
-```
-e il risultato è
-
-Nome | Cognome | Telefono
------------- | :-------------: | ------------:
-Steve | Jobs | 1234
-Bill | Gates | 666
-
----
-
-## HTML incorporato
-E' possibile aggiungere HTML puro, e viene renderizzato correttamente:
-```
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-```
-<dl>
-  <dt>Definition list</dt>
-  <dd>Is something people use sometimes.</dd>
-
-  <dt>Markdown in HTML</dt>
-  <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
-</dl>
-
----
-## Linee orizzontali
-
-E' sufficiente usare 3 o più asterischi:  
-```
-*********  
-```
-per ottenere  
-*******  
 ---
 
 ## Formule con *KaTeX*
