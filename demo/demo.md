@@ -219,7 +219,6 @@ La sintassi è uguale al link, ma preceduta dal punto esclamativo:
 
 ---
 
-<!-- .reveal .piccolo code: color="#00ff00" -->
 ## Blocco di codice
  
 * blocco *inline*, un solo backtick:
