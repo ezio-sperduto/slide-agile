@@ -1,19 +1,11 @@
+code { 
+	color: #00ff00; 
+}
+
 .reveal .piccolo{ 
 	font-size: 26px;
 	display: block;
 	text-align: justify;
 }
 
-.reveal code { 
-	color: #00ff00; 
-}
 
-
-
-span.piccolo { 
-	color: #0000ff; 
-}
-
-ul li p span code { 
-	color: #0000ff; 
-}
