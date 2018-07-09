@@ -17,3 +17,7 @@ span.piccolo code {
 span.piccolo { 
 	color: #0000ff; 
 }
+
+ul li p span code { 
+	color: #0000ff; 
+}
